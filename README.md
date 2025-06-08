@@ -1,15 +1,13 @@
-🔐 Login to eCertVault
-A secure and responsive login system for eCertVault, a modern web platform for storing and managing certificates. Built using HTML, CSS (Bootstrap 5), and PHP with MySQL backend and session management.
+# README.md
 
-✨ Features
-User login with email and password
+# 🔐 eCertVault
 
-Secure password storage with hashing
+This repository contains the login and registration system for **eCertVault**, a certificate management platform.
 
-Session handling to maintain user login state
-
-Responsive UI with Bootstrap 5
-
-Eye icon toggle to show/hide password
-
-Client-side form validation
+## 🚀 Features
+- User Registration & Login
+- Password hashing
+- Session management
+- Responsive UI with Bootstrap 5
+- Password visibility toggle with Bootstrap Icons
+- Basic validation (client and server side)
