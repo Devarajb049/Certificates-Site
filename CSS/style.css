@@ -1,0 +1,45 @@
+/* style.css */
+
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 1rem;
+  padding: 2rem;
+}
+
+.form-control {
+  background-color: #1c1c1c;
+  color: #fff;
+  border: 1px solid #555;
+}
+
+.form-control::placeholder {
+  color: #aaa;
+}
+
+.btn-custom {
+  background-color: #00b894;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #019875;
+}
+
+a {
+  color: #00cec9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
